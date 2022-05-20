@@ -173,7 +173,7 @@ int main()
         SM4encrypt(plaintext, key);
     }
     b = clock();
-    cout << "����" << MAXSIZE << "�ֺ�ʱ:" << double(b - a) / CLOCKS_PER_SEC <<"s" << endl;*/
+    cout << "¼ÓÃÜ" << MAXSIZE << "ÂÖºÄÊ±:" << double(b - a) / CLOCKS_PER_SEC <<"s" << endl;*/
 }
 
 
